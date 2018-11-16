@@ -1,4 +1,4 @@
-### Mixed-Integer Conic Optimization
+# Mixed-Integer Conic Optimization
 
 ## References
 
