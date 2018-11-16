@@ -13,11 +13,11 @@
 
 ### Solvers
 * BONMIN:
-    * Paper: https://doi.org/10.1016/j.disopt.2006.10.011
-    * Software: https://projects.coin-or.org/Bonmin
+  * Paper: https://doi.org/10.1016/j.disopt.2006.10.011
+  * Software: https://projects.coin-or.org/Bonmin
 * Pajarito:
-    * Paper: https://doi.org/10.1007/s10107-017-1191-y
-    * Software: https://github.com/JuliaOpt/Pajarito.jl
+  * Paper: https://doi.org/10.1007/s10107-017-1191-y
+  * Software: https://github.com/JuliaOpt/Pajarito.jl
 * SCIP-SDP: 
-    * Paper: https://doi.org/10.1080/10556788.2017.1322081
-    * Software: http://www.opt.tu-darmstadt.de/scipsdp/
+  * Paper: https://doi.org/10.1080/10556788.2017.1322081
+  * Software: http://www.opt.tu-darmstadt.de/scipsdp/
